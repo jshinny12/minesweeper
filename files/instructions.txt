@@ -1,0 +1,16 @@
+Instructions for the game:
+The game is called Minesweeper
+This game is one that includes 3 different levels: 1,2,3
+When the player uses their mouse to click a cell, it will reveal the cell
+If the cell shows a number, this refers to how many mines there are around it
+If the cell is empty, it means there are no mines around it
+If the cell is a mine, the player will lose and the bottom status states it
+If the player right clicks a cell, it will flag the cell as a blue. 
+When the cell is flagged, the cell cannot be revealed. 
+If the player clicks all the non-mines, then the status shows a win. 
+The player can decide to reset the game, or change levels 
+Changing the levels reset the game immediately. 
+Resetting levels get you back to the default level, no bombs
+The player can also decide to save and load their state of game. 
+When a player clicks a cell, the score goes up. 
+Have fun!
