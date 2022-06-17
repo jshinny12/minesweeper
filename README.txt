@@ -1,3 +1,5 @@
+There are attached screenshots of the game in the files folder!
+
 ==================
 =: Instructions :=
 ==================
